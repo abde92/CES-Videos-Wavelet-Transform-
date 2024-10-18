@@ -12,3 +12,14 @@ https://youtu.be/OP4-KSEjkPE?si=uHw4YUJkYMOn2JDw
 
 ### Wavelet Transform Acceleration and Deployment
 https://youtu.be/nP0SlFtEwv4?si=mSvfYcrH6Jy3LXEj
+
+## Requirements 
+These toolboxes are required:
+
+- MATLAB
+- Wavelet Toolbox
+- Signal Processing Toolbox
+- Image Processing Toolbox
+- Statistics and Machine Learning Toolbox
+- Deep Learning Toolbox
+- Audio Toolbox
